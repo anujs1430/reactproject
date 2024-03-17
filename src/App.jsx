@@ -3,7 +3,7 @@ import Form from './Form'
 
 const App = () => {
   return (
-    <div className='samplefile'>
+    <div>
       <Form/>
     </div>
   )
