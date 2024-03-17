@@ -6,7 +6,10 @@
 pre{
     text-align: center;
     padding: 3rem 0;
+}
 
+.samplefile{
+    color: #eb0000;
 }
 
 label {
